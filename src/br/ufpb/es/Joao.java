@@ -1,6 +1,7 @@
 package br.ufpb.es;
 
 public class Joao {
-	int n = 10;
-
+	private int n = 10;
+	private String breu = "BRUZAO VOCE NE JC";
+	//COMENTARIO MAROTAO BY: LEO DE SUZUKI
 }
